@@ -44,7 +44,7 @@ const Navbar = () => {
 					<button className=''>
 						<div className='flex text-black justify- w-full py-1 px-[110px]'>
 							<CiLocationOn className='w-5 h-5 mt-[3px]' />
-							<p className='underline ml-2 mb-1 font-[499] '>Tashkent</p>
+							<p className='underline ml-2 mb-1 font-[499] '>Toshkent</p>
 							<p className='ml-5 font-[499]'>Topshirish punktlari </p>
 						</div>
 					</button>
